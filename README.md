@@ -15,5 +15,11 @@ This paper presents a multi-stage real-time computer vision system for detecting
 ## Official Journal Link
 🔗 https://www.doi.org/10.56726/IRJMETS88292
 
+##ORCID##
+https://orcid.org/0009-0007-0769-7882
+
+##ACADEMIA.EDU##
+https://independent.academia.edu/kuntalpal22
+
 ## Keywords
 Child Labor Detection, Computer Vision, YOLO, ResNet50, FairFace, PPE Detection, Industrial Safety, Real-Time Surveillance
